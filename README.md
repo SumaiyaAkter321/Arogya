@@ -1,2 +1,2 @@
-# Arogya
+# HealPoint
 Health care management
